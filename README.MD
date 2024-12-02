@@ -70,14 +70,12 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://cdn.jsdelivr.net/gh/alohe/avatars/png/memo_30.png"
     />
     <p>&nbspGutembergue Martins<br>&nbsp
     &nbsp;
     <a 
-        href="<a href="https://www.linkedin.com/in/gutembergue-martins-38336a59" target="_blank">LinkedIn</a>">
-        LinkedIn
-    </a>
+        href="<a href="https://www.linkedin.com/in/gutembergue-martins-38336a59" target="_blank">LinkedIn</a>"
     </p>
 </p>
 <br/><br/>
