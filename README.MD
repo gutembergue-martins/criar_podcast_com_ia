@@ -75,10 +75,9 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     <p>&nbspGutembergue Martins<br>&nbsp
     &nbsp;
     <a 
-        href="<a href="https://www.linkedin.com/in/gutembergue-martins-38336a59" target="_blank">LinkedIn</a>"
+        href="<a href="https://www.linkedin.com/in/gutembergue-martins-38336a59" target="_blank">LinkedIn</a>
     </p>
-</p>
 <br/><br/>
-<p>
+
 
 
