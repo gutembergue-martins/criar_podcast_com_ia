@@ -29,9 +29,9 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório foi desenvolvido durante o BootCamp da CAIXA - IA Generativa com Microsoft Copilot em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este repositório foi desenvolvido durante o BootCamp da CAIXA - IA Generativa com Microsoft Copilot em parceria com a [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Este projeto tem como objetivo gerar um podcast utilizando ferramentas de IA através de prompts mais detalhado.
 
 Utilizei prompts para gerar cada etapa do processo criativo.
 
